@@ -1,5 +1,5 @@
-import model.Dog;
-import model.SpeakBehavior;
+//import model.Dog;
+//import model.SpeakBehavior;
 import view.MyFrame;
 import view.MyPanel;
 
